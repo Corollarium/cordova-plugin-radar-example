@@ -1,0 +1,6 @@
+/.npmignore
+/.project
+/node_modules/
+/platforms/
+/plugins/
+/hooks/
